@@ -18,7 +18,6 @@ During this challenge, I aim to:
 - Improve problem-solving skills using AI  
 - Maintain consistency and discipline in daily learning
 
----
 
 ## What You’ll Find Here 🛠️
 This repository includes:
@@ -29,7 +28,6 @@ This repository includes:
 
 Everything is structured to make my learning **clear traceable and easy to review**.
 
----
 
 ## How the Repository Is Organized 📂
 ```
