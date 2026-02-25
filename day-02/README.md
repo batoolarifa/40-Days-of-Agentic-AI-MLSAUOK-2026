@@ -1,4 +1,4 @@
-# Day 02 – 23-Feb-26  
+# Day 02 – 24-Feb-26  
 **Topic:** UV Setup and Blog Writing  
 
 **Tasks Completed:**  

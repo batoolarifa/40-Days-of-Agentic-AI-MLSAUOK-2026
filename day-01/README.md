@@ -1,4 +1,4 @@
-# Day 01 – 22-Feb-26  
+# Day 01 – 23-Feb-26  
 **Topic:** Exploring UV Package Manager  
 
 **Tasks Completed:**  
